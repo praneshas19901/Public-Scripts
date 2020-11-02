@@ -1,4 +1,4 @@
-﻿# Author: Pranesh Sathyanarayan <Pranesh.S@horizontal.com>
+﻿# Author: Pranesh Sathyanarayan___Pranesh.S@horizontal.com
 # Project: Devops Managed Services
 # Date: 12-10-2020
 # Script Usage: Script to automate disk usage checking of web app and trigger mail if usage size is above quota
