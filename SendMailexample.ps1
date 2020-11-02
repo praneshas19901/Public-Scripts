@@ -1,6 +1,6 @@
-﻿$paramuname=$args[0]
+$paramuname=$args[0]
 $parampwd=$args[1]
-$User = "$paramuname"
+$User = $paramuname
 $PWord = ConvertTo-SecureString -String $parampwd -AsPlainText -Force
 $Credential = New-Object -TypeName System.Management.Automation.PSCredential -ArgumentList $User, $PWord
 $body = "Hello world"
