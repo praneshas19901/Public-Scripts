@@ -3,16 +3,16 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "adminUsername": {
-      "value": "GEN-UNIQUE"
+      "value": "admin123"
     },
     "adminPassword": {
-      "value": "GEN-PASSWORD"
+      "value": "password123"
     },
     "dnsNameforLBIP": {
-      "value": "GEN-UNIQUE"
+      "value": "armdeploy14072021"
     },
     "storageAccountName": {
-      "value": "GEN-UNIQUE"
+      "value": "armdeploy14072021"
     },
     "vmSize": {
       "value": "Standard_DS2_v2"
