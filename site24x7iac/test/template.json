@@ -155,7 +155,7 @@
                         "action": "Allow",
                         "tag": "Default",
                         "priority": 102,
-                        "name": "Rule2",
+                        "name": "Rule3",
                         "description": "Site24x7"
                     },
                     {
@@ -181,6 +181,14 @@
                         "tag": "Default",
                         "priority": 101,
                         "name": "Rule2"
+                    },
+                    {
+                        "ipAddress": "6.6.6.6/32",
+                        "action": "Allow",
+                        "tag": "Default",
+                        "priority": 102,
+                        "name": "Rule3",
+                        "description": "Site24x7"
                     },
                     {
                         "ipAddress": "Any",
