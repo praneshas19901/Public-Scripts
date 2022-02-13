@@ -6,7 +6,7 @@
             "value": "prantest"
         },
         "serverfarms_ASP_Apps_8dcc_externalid": {
-            "value": null
+            "value": "/subscriptions/52350dfa-178c-40a2-a5b0-d26b2467e7a9/resourceGroups/Apps/providers/Microsoft.Web/serverfarms/ASP-Apps-8dcc"
         }
     }
 }
