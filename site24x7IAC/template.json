@@ -17,7 +17,6 @@
             "type": "Microsoft.Web/sites",
             "apiVersion": "2021-02-01",
             "name": "[parameters('sites_prantest_name')]",
-            "location": "East US",
             "kind": "app",
             "properties": {
             }
