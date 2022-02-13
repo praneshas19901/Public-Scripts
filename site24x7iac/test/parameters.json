@@ -2,11 +2,7 @@
     "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
     "contentVersion": "1.0.0.0",
     "parameters": {
-        "sites_prantest_name": {
-            "value": "prantest"
-        },
-        "serverfarms_ASP_Apps_8dcc_externalid": {
-            "value": "/subscriptions/52350dfa-178c-40a2-a5b0-d26b2467e7a9/resourceGroups/Apps/providers/Microsoft.Web/serverfarms/ASP-Apps-8dcc"
+       
         }
     }
 }
