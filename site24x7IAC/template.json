@@ -96,7 +96,7 @@
                         "description": "Deny all access"
                     }
                 ],
-                "scmIpSecurityRestrictionsUseMain": false,
+                "scmIpSecurityRestrictionsUseMain": false
             }
         },
         {
