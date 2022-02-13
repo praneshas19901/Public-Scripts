@@ -81,22 +81,6 @@
                         "name": "Rule2"
                     },
                     {
-                        "ipAddress": "6.6.6.6/32",
-                        "action": "Allow",
-                        "tag": "Default",
-                        "priority": 102,
-                        "name": "Rule3",
-                        "description": "Site24x7"
-                    },
-                    {
-                        "ipAddress": "7.7.7.7/32",
-                        "action": "Allow",
-                        "tag": "Default",
-                        "priority": 102,
-                        "name": "Rule3",
-                        "description": "Site24x7"
-                    },
-                    {
                         "ipAddress": "Any",
                         "action": "Deny",
                         "priority": 2147483647,
