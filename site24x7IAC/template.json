@@ -19,6 +19,8 @@
             "name": "[parameters('sites_prantest_name')]",
             "location": "East US",
             "kind": "app",
+            "properties": {
+            }
         },
         {
             "type": "Microsoft.Web/sites/basicPublishingCredentialsPolicies",
