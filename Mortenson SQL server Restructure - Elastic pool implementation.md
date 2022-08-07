@@ -1,4 +1,4 @@
-[![img](Pasted image 20220807201430.png)](https://github.com/praneshas19901/Public-Scripts/blob/91d6d54ed91909692b3625719969a9a6b9cb90c6/Pasted%20image%2020220807201430.png)
+https://github.com/praneshas19901/Public-Scripts/blob/91d6d54ed91909692b3625719969a9a6b9cb90c6/Pasted%20image%2020220807201430.png
 
 https://azure.microsoft.com/en-in/services/sql-database/campaign/
 
