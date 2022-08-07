@@ -1,4 +1,4 @@
-![[Pasted image 20220807201430.png]]
+![img](Pasted image 20220807201430.png)
 
 https://azure.microsoft.com/en-in/services/sql-database/campaign/
 
